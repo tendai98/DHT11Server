@@ -1,10 +1,11 @@
 # ESP8266-NodeMCU DHT11 Sensor Server
 
-The DHT11 Sensor Server is a simple application running on an ESP8266 WiFi-capable controller that allows you to retrieve temperature and humidity data from a DHT11 sensor. This README file provides an overview of the code and how to use it.
+The DHT11 Sensor Server is a simple application running on an ESP8266 WiFi-capable controller that allows you to retrieve temperature and humidity data from a DHT11 sensor.
 
 ## Introduction
 
-The DHT11 Sensor Server is designed to provide a web-based interface to retrieve temperature and humidity data from a DHT11 sensor connected to an ESP8266 controller. It sets up a WiFi access point, and you can access the sensor data by making HTTP requests to the ESP8266.
+- The DHT11 Sensor Server is designed to provide a web-based API to retrieve temperature and humidity data from a DHT11 sensor connected to an ESP8266 controller. 
+- It sets up a WiFi access point, and you can access the sensor data by making HTTP requests to the ESP8266.
 
 ## Code Overview
 
